@@ -15,7 +15,6 @@ This project is a **Python** script that automates web interactions with a speci
 - **Python 3.x**: The programming language used for the script.
 - **Selenium WebDriver**: Automates browser interactions.
 - **Chromedriver**: A WebDriver implementation for Chrome.
-- **WAMPServer**: Used for database management (if applicable in the extended functionality).
 
 ## Installation
 
@@ -34,9 +33,6 @@ This project is a **Python** script that automates web interactions with a speci
    - Download the Chromedriver that matches your installed version of Chrome from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads).
    - Place the `chromedriver.exe` file in the same directory as your script or specify the path in the script.
 
-4. **WAMPServer Setup** (if your script interacts with a database):
-   - Download and install **WAMPServer** from [wampserver.com](http://www.wampserver.com/en/).
-   - Ensure that the server is running and properly configured.
 
 ## Usage
 
